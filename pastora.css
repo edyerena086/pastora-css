@@ -1,0 +1,185 @@
+/**
+ * -----------------------------------------------
+ * Paddings
+ * -----------------------------------------------
+ */
+.pd-20 {
+	padding: 20px;
+}
+.pd-40 {
+	padding: 40px;
+}
+.pd-60 {
+	padding: 60px;
+}
+.pd-80 {
+	padding: 80px;
+}
+.pd-100 {
+	padding: 100px;
+}
+.pd-t-20 {
+	padding-top: 20px;
+}
+.pd-t-40 {
+	padding-top: 40px;
+}
+.pd-t-60 {
+	padding-top: 60px;
+}
+.pd-t-80 {
+	padding-top: 80px;
+}
+.pd-t-100 {
+	padding-top: 100px;
+}
+.pd-t-120 {
+	padding-top: 120px;
+}
+.pd-b-20 {
+	padding-bottom: 20px;
+}
+.pd-b-40 {
+	padding-bottom: 40px;
+}
+.pd-b-60 {
+	padding-bottom: 60px;
+}
+.pd-b-80 {
+	padding-bottom: 80px;
+}
+.pd-b-100 {
+	padding-bottom: 100px;
+}
+.pd-b-120 {
+	padding-bottom: 120px;
+}
+.pd-l-20 {
+	padding-left: 20px;
+}
+.pd-l-40 {
+	padding-left: 40px;
+}
+.pd-l-60 {
+	padding-left: 60px;
+}
+.pd-l-80 {
+	padding-left: 80px;
+}
+.pd-l-100 {
+	padding-left: 100px;
+}
+.pd-l-120 {
+	padding-left: 120px;
+}
+.pd-r-20 {
+	padding-right: 20px;
+}
+.pd-r-40 {
+	padding-right: 40px;
+}
+.pd-r-60 {
+	padding-right: 60px;
+}
+.pd-r-80 {
+	padding-right: 80px;
+}
+.pd-r-100 {
+	padding-right: 100px;
+}
+.pd-r-120 {
+	padding-right: 120px;
+}
+
+/**
+ * -----------------------------------------------
+ * Margins
+ * -----------------------------------------------
+ */
+.mr-20 {
+	margin: 20px;
+}
+.mr-40 {
+	margin: 40px;
+}
+.mr-60 {
+	margin: 60px;
+}
+.mr-80 {
+	margin: 80px;
+}
+.mr-100 {
+	margin: 100px;
+}
+.mr-r-20 {
+	margin-right: 20px;
+}
+.mr-r-40 {
+	margin-right: 40px;
+}
+.mr-r-60 {
+	margin-right: 60px;
+}
+.mr-r-80 {
+	margin-right: 80px;
+}
+.mr-r-100 {
+	margin-right: 100px;
+}
+.mr-r-120 {
+	margin-right: 120px;
+}
+.mr-l-20 {
+	margin-left: 20px;
+}
+.mr-l-40 {
+	margin-left: 40px;
+}
+.mr-l-60 {
+	margin-left: 60px;
+}
+.mr-l-80 {
+	margin-left: 80px;
+}
+.mr-l-100 {
+	margin-left: 100px;
+}
+.mr-l-120 {
+	margin-left: 120px;
+}
+.mr-t-20 {
+	margin-top: 20px;
+}
+.mr-t-40 {
+	margin-top: 40px;
+}
+.mr-t-60 {
+	margin-top: 60px;
+}
+.mr-t-80 {
+	margin-top: 80px;
+}
+.mr-t-100 {
+	margin-top: 100px;
+}
+.mr-t-120 {
+	margin-top: 120px;
+}
+.mr-b-20 {
+	margin-bottom: 20px;
+}
+.mr-b-40 {
+	margin-bottom: 40px;
+}
+.mr-b-60 {
+	margin-bottom: 60px;
+}
+.mr-b-80 {
+	margin-bottom: 80px;
+}
+.mr-b-100 {
+	margin-bottom: 100px;
+}
+.mr-b-120 {
+	margin-bottom: 120px;
+}
